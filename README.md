@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-orange.svg)](https://www.paypal.com/donate/?cmd=_donations&business=8UK2BZP2K8NSS)
+
 # FFX Thunder Dodger
 Application for automatically dodging thunders in FFX's Thunder Plains (HD remaster for PS4).
 
