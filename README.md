@@ -3,6 +3,8 @@
 # FFX Thunder Dodger
 Application for automatically dodging thunders in FFX's Thunder Plains (HD remaster for PS4).
 
+![Showcase](https://github.com/aurasphere/ffx-thunder-dodger/blob/master/media/ffx-thunder-dodger-demo.gif)
+
 ## Usage
 1. Download the content of the bin folder
 2. Install [PS4 remote play](https://remoteplay.dl.playstation.net/remoteplay/lang/it/index.html)
