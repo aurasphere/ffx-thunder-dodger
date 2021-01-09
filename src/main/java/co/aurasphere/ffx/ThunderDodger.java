@@ -41,7 +41,7 @@ public class ThunderDodger {
 
 			// If prevalent color is white, presses and releases the enter button.
 			if (colors[0] > WHITE_THRESHOLD && colors[1] > WHITE_THRESHOLD && colors[2] > WHITE_THRESHOLD) {
-				System.out.println("Lightning!");
+				System.out.println("Lightning detected! Dodging");
 				robot.keyPress(KeyEvent.VK_ENTER);
 				// Very important: we add some delay between the button release, otherwise the
 				// input will not be registered correctly.
